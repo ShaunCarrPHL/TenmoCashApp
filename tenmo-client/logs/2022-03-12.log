@@ -1,0 +1,7 @@
+2022-03-12T17:37:48.1900461 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-03-12T17:38:19.3707592 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-03-12T17:38:52.8972548 500 : [{"timestamp":"2022-03-12T22:38:52.866+00:00","status":500,"error":"Internal Server Error","message":"Invalid column name; nested exception is java.sql.SQLException: Invalid column name","path":"/transfer/1001/list"}]
+2022-03-12T17:44:22.8880998 500 : [{"timestamp":"2022-03-12T22:44:22.871+00:00","status":500,"error":"Internal Server Error","message":"Invalid column name; nested exception is java.sql.SQLException: Invalid column name","path":"/transfer/1001/list"}]
+2022-03-12T19:34:05.250724 401 : [no body]
+2022-03-12T19:36:05.8319988 401 : [no body]
+2022-03-12T21:33:01.9745543 401 : [no body]
